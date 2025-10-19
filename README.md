@@ -72,7 +72,6 @@ Samsung Galaxy ORG
 Nokia ORG
 Sentiment: Positive
 ```
-```
 
 ---
 
