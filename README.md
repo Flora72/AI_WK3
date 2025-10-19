@@ -80,33 +80,11 @@ Sentiment: Positive
 
 | Digit | Prediction |
 |-------|------------|
-| ![4](screenshots/Predit5.png) | Predicted: 4 |
-| ![0](screenshots/Predit4.png) | Predicted: 0 |
-| ![1](screenshots/Predit3.png) | Predicted: 1 |
-| ![2](screenshots/Predit2.png) | Predicted: 2 |
-| ![7](screenshots/Predit1.png) | Predicted: 7 |
+| ![1](screenshots/Pred1.png) | Predicted: 7 |
+| ![2](screenshots/Pred2.png) | Predicted: 2 |
+| ![3](screenshots/Pred3.png) | Predicted: 1 |
+| ![4](screenshots/Pred4.png) | Predicted: 0 |
+| ![5](screenshots/Pred5.png) | Predicted: 4 |
+
 
 ---
-
-## Theory Questions
-
-### 1. What is the difference between supervised and unsupervised learning?
-- **Supervised learning** uses labeled data to train models (e.g., classification, regression).
-- **Unsupervised learning** finds patterns in unlabeled data (e.g., clustering, dimensionality reduction).
-
-### 2. What is overfitting and how can it be prevented?
-- **Overfitting** occurs when a model learns noise instead of signal, performing well on training data but poorly on unseen data.
-- **Prevention techniques** include:
-  - Cross-validation
-  - Regularization (L1/L2)
-  - Dropout
-  - Early stopping
-  - Using more training data
-
-### 3. What are precision, recall, and F1-score?
-- **Precision**: Correct positive predictions / Total predicted positives  
-- **Recall**: Correct positive predictions / Total actual positives  
-- **F1-score**: Harmonic mean of precision and recall
-
----
-
