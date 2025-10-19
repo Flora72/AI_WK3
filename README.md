@@ -97,4 +97,4 @@ You can view the full theory responses in the shared document below:
 
 - Framework: Streamlit  
 - Screenshot: ![MNIST App Screenshot](screenshots/mnist_streamlit.png)  
-- Live Demo: *(optional – add if deployed via Streamlit Cloud)*
+- Live Demo: [https://mnistdigit0classifier.streamlit.app](https://mnistdigit0classifier.streamlit.app)
