@@ -79,11 +79,11 @@ Sentiment: Positive
 
 | Digit | Prediction |
 |-------|------------|
-| ![1](screenshots/Pred1.png) | Predicted: 7 |
-| ![2](screenshots/Pred2.png) | Predicted: 2 |
-| ![3](screenshots/Pred3.png) | Predicted: 1 |
-| ![4](screenshots/Pred4.png) | Predicted: 0 |
-| ![5](screenshots/Pred5.png) | Predicted: 4 |
+| ![1](screenshots/Predit1.png) | Predicted: 7 |
+| ![2](screenshots/Predit2.png) | Predicted: 2 |
+| ![3](screenshots/Predit3.png) | Predicted: 1 |
+| ![4](screenshots/Predit4.png) | Predicted: 0 |
+| ![5](screenshots/Predit5.png) | Predicted: 4 |
 
 
 ---
