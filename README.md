@@ -61,7 +61,7 @@ This repository contains three Python tasks exploring machine learning and natur
 - Uses `spaCy` to extract named entities from a sample sentence.
 - Applies rule-based sentiment classification.
 
-**📷 Screenshot:**
+**Screenshot:**
 
 ![Task 3 Output](screenshots/Task3.png)
 
@@ -87,3 +87,8 @@ Sentiment: Positive
 
 
 ---
+## Theory Questions
+
+You can view the full theory responses in the shared document below:
+
+🔗 [Theory Questions & Ethics Summary – Google Doc](https://docs.google.com/document/d/15IhEK7me-jYJprPTNXfsrd9yluFPiF-JrvWG8MVGN1Q/edit?usp=sharing)
