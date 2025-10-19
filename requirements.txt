@@ -1,0 +1,6 @@
+numpy<2
+scikit-learn
+tensorflow
+matplotlib
+spacy
+certifi
