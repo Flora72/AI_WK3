@@ -1,6 +1,8 @@
 numpy<2
 scikit-learn
-tensorflow
+tensorflow==2.13.0
 matplotlib
 spacy
 certifi
+streamlit
+Pillow
