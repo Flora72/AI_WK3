@@ -91,4 +91,10 @@ Sentiment: Positive
 
 You can view the full theory responses in the shared document below:
 
-🔗 [Theory Questions & Ethics Summary – Google Doc](https://docs.google.com/document/d/15IhEK7me-jYJprPTNXfsrd9yluFPiF-JrvWG8MVGN1Q/edit?usp=sharing)
+[Theory Questions & Ethics Summary – Google Doc](https://docs.google.com/document/d/15IhEK7me-jYJprPTNXfsrd9yluFPiF-JrvWG8MVGN1Q/edit?usp=sharing)
+
+## Bonus Task – MNIST Web Interface
+
+- Framework: Streamlit  
+- Screenshot: ![MNIST App Screenshot](screenshots/mnist_streamlit.png)  
+- Live Demo: *(optional – add if deployed via Streamlit Cloud)*

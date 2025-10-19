@@ -38,3 +38,4 @@ for i in range(5):
     plt.imshow(x_test[i].reshape(28,28), cmap='gray')
     plt.title(f"Predicted: {np.argmax(predictions[i])}")
     plt.show()
+model.save("mnist_model.h5")
